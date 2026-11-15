@@ -1,16 +1,27 @@
-## Hi there 👋
+ Olá! Eu sou Cesar Duarte 👋
 
-<!--
-**cesarduarte0/cesarduarte0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na FIAP.
 
-Here are some ideas to get you started:
+💻 Desenvolvendo minhas habilidades em programação e desenvolvimento backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Tecnologias
+
+- Python
+- Java
+- SQL / PostgreSQL
+- Git e GitHub
+- Spring Boot
+- FastAPI
+
+ 🎯 Objetivos
+
+- Desenvolver projetos práticos.
+- Aprimorar conhecimentos em backend.
+- Aprender novas tecnologias.
+- Conquistar uma oportunidade de estágio em TI.
+
+ 📌 Projetos
+
+- Sistema de Controle Financeiro Pessoal
+- API de Sistema Bancário
+- Sistema de Análise de Crédito
