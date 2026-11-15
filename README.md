@@ -25,4 +25,4 @@ Atualmente, estou desenvolvendo projetos pessoais para aplicar meus conhecimento
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge
+
