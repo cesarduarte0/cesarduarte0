@@ -1,4 +1,4 @@
- Olá! Eu sou Cesar Duarte 👋
+ Olá! Me chamo Cesar Duarte 👋
 
 🎓 Estudante de Engenharia de Software na FIAP.
 
