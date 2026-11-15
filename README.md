@@ -25,17 +25,24 @@ Atualmente, estou desenvolvendo projetos pessoais para aplicar meus conhecimento
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-🎓 Formação
+---
 
-Engenharia de Software — FIAP (em andamento)
+## 🎓 Formação
 
-🎯 Objetivo profissional
+- Engenharia de Software — FIAP (em andamento)
+
+---
+
+## 🎯 Objetivo profissional
 
 Busco uma oportunidade de estágio na área de Tecnologia da Informação, com foco em desenvolvimento de software, especialmente Backend, para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções tecnológicas.
 
-📫 Contato
+---
 
-💼 LinkedIn: Cesar Duarte
+## 📫 Contato
 
-✉️ E-mail: cesarduarte.06@icloud.com
+- 💼 LinkedIn: [Cesar Duarte](https://www.linkedin.com/in/cesar-duarte0/)
+- ✉️ E-mail: [cesarduarte.06@icloud.com](mailto:cesarduarte.06@icloud.com)
