@@ -26,3 +26,16 @@ Atualmente, estou desenvolvendo projetos pessoais para aplicar meus conhecimento
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+🎓 Formação
+
+Engenharia de Software — FIAP (em andamento)
+
+🎯 Objetivo profissional
+
+Busco uma oportunidade de estágio na área de Tecnologia da Informação, com foco em desenvolvimento de software, especialmente Backend, para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções tecnológicas.
+
+📫 Contato
+
+💼 LinkedIn: Cesar Duarte
+
+✉️ E-mail: cesarduarte.06@icloud.com
