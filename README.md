@@ -1,6 +1,6 @@
 # Olá, eu sou Cesar Duarte 👋
 
-**Estudante de Engenharia de Software na FIAP | Desenvolvedor em formação**
+**Estudante de Engenharia de Software na FIAP
 
 Sou estudante de Engenharia de Software, interessado em desenvolvimento de software, principalmente na área de Backend. Estou constantemente aprendendo novas tecnologias e desenvolvendo projetos práticos para aprimorar minhas habilidades em programação.
 
