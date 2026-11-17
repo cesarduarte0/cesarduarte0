@@ -34,7 +34,7 @@ Atualmente, estou desenvolvendo projetos pessoais para aplicar meus conhecimento
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade de estágio na área de Tecnologia da Informação, com foco em desenvolvimento de software, especialmente Backend, para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções tecnológicas.
+Busco uma oportunidade de estágio na área de tecnologia, com foco em desenvolvimento de software, especialmente Backend, para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções tecnológicas.
 
 ---
 
