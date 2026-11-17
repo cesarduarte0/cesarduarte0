@@ -1,8 +1,6 @@
 # Olá, eu sou Cesar Duarte 👋
 
-  Estudante de Engenharia de Software na FIAP
-
-Sou estudante de Engenharia de Software, interessado em desenvolvimento de software, principalmente na área de Backend. Estou constantemente aprendendo novas tecnologias e desenvolvendo projetos práticos para aprimorar minhas habilidades em programação.
+Sou estudante de Engenharia de Software na FIAP, interessado em desenvolvimento de software, principalmente na área de Backend. Estou constantemente aprendendo novas tecnologias e desenvolvendo projetos práticos para aprimorar minhas habilidades em programação.
 
 ---
 
@@ -10,9 +8,9 @@ Sou estudante de Engenharia de Software, interessado em desenvolvimento de softw
 
 Atualmente, estou desenvolvendo projetos pessoais para aplicar meus conhecimentos e evoluir como desenvolvedor.
 
-- **Sistema de Controle Financeiro:** aplicação para gerenciamento de receitas, despesas e metas financeiras.
-- **API de Sistema Bancário:** backend com operações bancárias, transferências e gerenciamento de contas.
-- **Sistema de Análise de Crédito:** aplicação para análise de dados financeiros e classificação de risco.
+- **Sistema de Controle Financeiro:** aplicação para gerenciamento de receitas, despesas e metas financeiras. (CONCLUÍDO)
+- **API de Sistema Bancário:** backend com operações bancárias, transferências e gerenciamento de contas. (EM ANDAMENTO)
+- **Sistema de Análise de Crédito:** aplicação para análise de dados financeiros e classificação de risco. (EM ANDAMENTO)
 
 ---
 
